@@ -11,7 +11,4 @@ function initMap(){
 		zoom: 12,
 		zoomControl: false
 	});
-
-	//Add a marker to the map
-	L.marker([32.88, -117.236]).addTo(map);
 }
